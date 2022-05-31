@@ -1,0 +1,14 @@
+{
+  "name": "wyo-collection",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:shreyasg-git/wyo-collection.git",
+  "author": "Shreyas Gangurde",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.29.3"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.2"
+  }
+}
